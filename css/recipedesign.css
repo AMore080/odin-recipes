@@ -6,7 +6,12 @@
     margin-left: auto;
 }
 
+.text,
 body{
     background-color: #e6e6e6;
+}
+
+.text{
+    text-align: center;
 }
 
