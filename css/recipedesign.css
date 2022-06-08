@@ -1,12 +1,12 @@
 .borderimage{
     display: block;
-    height: 300px;
-    width: 300px;
+    height: auto;
+    width: 700px;
     margin-right: auto;
     margin-left: auto;
 }
 
 body{
-    background-color: coral;
+    background-color: #e6e6e6;
 }
 
