@@ -20,4 +20,19 @@ body{
     padding: 0.5em 0.75em;
     background-color: #FF8552;
     border-radius: 6px ;
+    padding: 50px;
+    border-width: 3px;
+    text-align: center;
+    width: 1000px;
+    margin-right: 500px;
+    margin-left: 500px;
+    position: relative;
+}
+
+.ul{
+    display: flex;
+    list-style: none;
+    border: 10px solid #39393A;
+    padding: .5em  ;
+    margin-right: 1500px;
 }
