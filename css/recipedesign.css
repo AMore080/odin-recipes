@@ -13,7 +13,7 @@ body{
 
 .main-header{
     text-align: center;
-    color: #39393A;
+    color: #2c2c2c;
     background-color: #ff865285;
 }
 
@@ -26,7 +26,13 @@ body{
 .ul{
     display: flex;
     list-style: none;
-    border: 10px solid #39393A;
+    border-top: 10px solid #39393A;
+    border-bottom: 10px solid #39393A;
     padding: .5em  ;
     margin-right: 1500px;
+}
+
+.header{
+    font-family: sans-serif;
+    font-size: larger;
 }
